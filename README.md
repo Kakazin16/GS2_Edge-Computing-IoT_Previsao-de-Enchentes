@@ -246,4 +246,20 @@ O dashboard inclui:
 
 # Imagens #
 
+![Captura de tela 2025-06-06 191812](https://github.com/user-attachments/assets/d72d4cf5-7ef7-47ac-9b08-11ea71d3fabe)
+
+![Captura de tela 2025-06-06 192245](https://github.com/user-attachments/assets/a6835a8c-085d-4f00-975d-dee5984058f5)
+
+![Captura de tela 2025-06-06 192050](https://github.com/user-attachments/assets/a2173106-8c33-44fe-82a0-c2063a128557)
+
+# Link do video #
+https://www.youtube.com/watch?v=--qHsVkGLg4
+
+# Integrantes #
+
+Kauan Diogo - RM 560727
+
+Pedro Claudino Scarceli - RM 561023
+
+Samuel David Becker - RM 559269
 
